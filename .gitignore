@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+
+# Avoid commit sensitive data
+secrets.py
